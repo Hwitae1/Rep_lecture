@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+color: #292929;
+}
+.perent{
+    width: 400px;
+    margin: 0 auto;
+    background-color: #cecece;
+}
+.child{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
+.red{
+    background-color: red;
+    float: left;
+}
+.yellow{
+    background-color: yellow;
+    float: left;
+}
+.blue{
+    background-color: blue;
+    float: left;
+}
+.temp{
+    clear: left;
+}
